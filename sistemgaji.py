@@ -27,11 +27,11 @@ elif(jabatan=='5'):
     jab="Cleaning Service"
 
 if(status== '1'):
-    tambahan = gaji_pokok*10/100
+    tambahan = gaji_pokok*0,1
 elif(status== '2'):
-    tambahan = gaji_pokok*10/100
+    tambahan = gaji_pokok*0,1
 elif(status== '3'):
-    tambahan = gaji_pokok*10/100
+    tambahan = gaji_pokok*0,1
 
 jumlah_gaji = gaji_pokok+tambahan
 
